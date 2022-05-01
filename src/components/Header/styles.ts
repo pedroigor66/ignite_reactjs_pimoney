@@ -17,7 +17,7 @@ export const Content = styled.div`
 
   button {
     font-size: 1rem;
-    color: #fff;
+    color: var(--button-background);
     background: var(--blue-light);
     border: 0;
     padding: 0 2rem;

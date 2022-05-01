@@ -28,7 +28,7 @@ export const Container = styled.div`
 
     &.highlight-background {
       background: var(--green);
-      color: #fff;
+      color: var(--button-background);
     }
   }
 `;
